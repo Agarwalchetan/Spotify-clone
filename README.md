@@ -3,7 +3,7 @@
 A web-based **Spotify Clone** built with **HTML, CSS, and JavaScript**, featuring a music player, interactive UI, and responsive design.  
 
 ## 🚀 Live Demo  
-[Click here to view the project] _(https://magenta-lolly-cb8823.netlify.app/)_  
+[Click here to view the project](https://magenta-lolly-cb8823.netlify.app/) 
 
 ## 📌 Features  
 ✅ Home and Search Navigation  
