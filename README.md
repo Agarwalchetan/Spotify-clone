@@ -21,7 +21,7 @@ A web-based **Spotify Clone** built with **HTML, CSS, and JavaScript**, featurin
 - **JavaScript (Optional)** - Enhancing interactivity  
 
 ## 📂 Project Structure  
-Directory structure:
+Directory structure: <br/>
 └── agarwalchetan-spotify-clone/ <br/>
     ├── README.md<br/>
     ├── index.html<br/>
